@@ -90,6 +90,5 @@ This project demonstrates my ability to build professional Power BI dashboards, 
 
 ## 🔗 Live Demo or PBIX File
 
-> Upload the `.pbix` file to your GitHub repo and link it here:
-
-[📁 Download Dashboard PBIX](./adventure_market.pbix)
+[📁 Download Dashboard PBIX](./Dashboard/adventure_market_dashboard.pbix)
+bix)
