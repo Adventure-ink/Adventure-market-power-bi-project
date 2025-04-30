@@ -85,6 +85,13 @@ This project demonstrates my ability to build professional Power BI dashboards, 
 
 ![Screenshot 2025-04-29 215921](https://github.com/user-attachments/assets/e80379e0-646f-4880-9864-aaf261818476)
 
+![Screenshot 2025-04-30 132342](https://github.com/user-attachments/assets/15d69d4c-ffbd-43da-bfab-fbdc8b41ab2d)
+
+![Screenshot 2025-04-30 132416](https://github.com/user-attachments/assets/8e726788-504d-4bb7-a633-04f871d66850)
+
+![Screenshot 2025-04-30 132430](https://github.com/user-attachments/assets/23a729dc-e0a5-4e6b-9205-e5c9e99d375f)
+
+![Screenshot 2025-04-30 132443](https://github.com/user-attachments/assets/0ec8c60d-cff9-4b37-b5a7-2f6247b52234)
 
 ---
 
